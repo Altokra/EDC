@@ -2,7 +2,7 @@
  * @Author: ka1shu1 cwh979946@163.com
  * @Date: 2026-03-22 14:04:07
  * @LastEditors: ka1shu1 cwh979946@163.com
- * @LastEditTime: 2026-03-22 15:24:20
+ * @LastEditTime: 2026-03-22 16:57:23
  * @FilePath: \EDC\wk1\wk1_notes.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -53,3 +53,10 @@ FPGA ==固化==
 ### 自动控制
 
 2023 国赛D题
+
+
+2023 国赛H/G/F题：
+
+FFT算法
+
+DDS信号产生技术
