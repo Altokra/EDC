@@ -4,7 +4,7 @@
 
 ## 目录结构
 
-```
+```file
 EDC/
 ├── readme.md              # 项目说明文档
 ├── .gitignore             # Git 忽略配置
