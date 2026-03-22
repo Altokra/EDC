@@ -1,0 +1,95 @@
+# 电子设计大赛 .gitignore
+
+# ====================
+# 编译输出
+# ====================
+*.hex
+*.bin
+*.elf
+*.out
+*.axf
+*.obj
+*.o
+*.d
+*.lst
+
+# ====================
+# Keil MDK
+# ====================
+*.uvguix.*
+*.uvoptx*
+*.uvproj*
+*.uvprojx
+*.uvbuild*
+*.ddk
+*.build_log.htm
+*.lnp
+*.plg
+*.bak
+*.tmp
+*.lst.lst
+
+# ====================
+# STM32CubeIDE
+# ====================
+.settings/
+.project
+.cproject
+*.launch
+Debug/
+Release/
+Release_/
+Drivers/
+
+# ====================
+# Altium Designer
+# ====================
+*.PrjPcb
+*.PrjPCB
+*.PcbDoc
+*.SchDoc
+*.OutJob
+*.IntLib
+*.PcbLib
+*.SchLib
+*_cache.*
+*_lib.*
+
+# ====================
+# 开发工具
+# ====================
+.vscode/
+.idea/
+*.sublime-*
+
+# ====================
+# 操作系统
+# ====================
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+
+# ====================
+# 临时文件
+# ====================
+*.tmp
+*.temp
+*.log
+*.swp
+*.swo
+*~
+
+# ====================
+# 压缩包
+# ====================
+*.zip
+*.rar
+*.7z
+
+# ====================
+# 仿真文件
+# ====================
+*.pwi
+*.pwc
+*.pds
